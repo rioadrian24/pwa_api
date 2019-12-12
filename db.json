@@ -1,0 +1,24 @@
+{
+"products": [
+{"id":1,"name":"Boar, wild","category":"Red"},
+{"id":2,"name":"Genoveva","category":"Goldenrod"},
+{"id":3,"name":"Lizard, desert spiny","category":"Yellow"},
+{"id":4,"name":"North American red fox","category":"Turquoise"},
+{"id":5,"name":"Olive baboon","category":"Yellow"},
+{"id":6,"name":"Arctic ground squirrel","category":"Yellow"},
+{"id":7,"name":"Onager","category":"Red"},
+{"id":8,"name":"Eagle, tawny","category":"Pink"},
+{"id":9,"name":"Sacred ibis","category":"Turquoise"},
+{"id":10,"name":"Bandicoot, southern brown","category":"Blue"},
+{"id":11,"name":"Snake, western patch-nosed","category":"Purple"},
+{"id":12,"name":"Long-finned pilot whale","category":"Yellow"},
+{"id":13,"name":"Red phalarope","category":"Khaki"},
+{"id":14,"name":"Cuis","category":"Blue"},
+{"id":15,"name":"Penguin, fairy","category":"Puce"},
+{"id":16,"name":"Genet, small-spotted","category":"Pink"},
+{"id":17,"name":"Northern fur seal","category":"Violet"},
+{"id":18,"name":"Woolly-necked stork","category":"Goldenrod"},
+{"id":19,"name":"Antelope, sable","category":"Aquamarine"},
+{"id":20,"name":"Yellow-billed hornbill","category":"Indigo"}
+]
+}
